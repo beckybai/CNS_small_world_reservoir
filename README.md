@@ -1,6 +1,7 @@
 # Matlab code for the paper "Reservoir computing based on small world network"
 
 Main part:
+
 Fluttermain: The starting script of the training and testing process.
 
 InitNetwork: Set the basic parameters of the architecture of the network.
